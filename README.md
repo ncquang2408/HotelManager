@@ -1,1 +1,1 @@
-# HotelManager
+# Interface for Hotel Management: enabling owners to update, add, delete, modify, and retrieve customer information, manage hotel room services; administer hotel staff; facilitate accurate room status updates for users.
